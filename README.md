@@ -46,12 +46,13 @@ For topsis impacts of all metrics is '+' as we are doing classification and want
 The weights for accuracy and MCC is 1 whereas its 2 for Precision, Recall , F1 Score
 
 Example Usage in Google Colab:
+```sh
 argument_value_1 = "text_classification_results.csv"
 argument_value_2 = "1,2,2,2,1"
 argument_value_3 = "+,+,+,+,+"
 argument_value_4 = "topsis_results.csv"
 !topsis $argument_value_1 $argument_value_2 $argument_value_3 $argument_value_4
-
+```
 
 ### Topsis Table with ranks and topsis score
 | Model      | Accuracy       | Precision      | Recall         | F1 Score       | MCC            | Topsis Score   | Rank           |
