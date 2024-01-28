@@ -74,7 +74,7 @@ Horizontal Bar Graph of Topsis Score along with rank
 
 | Roberta Model | TinyBERT Model |
 |---|---|
-| ![Confusion Matrix - Roberta Model](./confusion%20matrix/roberta.png) | ![Confusion Matrix - TinyBERT Model](./confusion%20matrix/confusion_matrix_tinybert.png) 
+| ![Confusion Matrix - Roberta Model](./confusion%20matrix/confusion_matrix_roberta.png) | ![Confusion Matrix - TinyBERT Model](./confusion%20matrix/confusion_matrix_tinybert.png) 
 
 <p align="center">
  
