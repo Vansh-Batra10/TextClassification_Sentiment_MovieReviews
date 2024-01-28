@@ -66,20 +66,22 @@ Horizontal Bar Graph of Topsis Score along with rank
 ## Confusion Matrix 
 | T5 Model | GPT-2 Model |
 |---|---|
-| ![Confusion Matrix - T5 Model](./confusion%20%matrix/confusion_matrix_t5.png) | ![Confusion Matrix - GPT-2 Model](./confusion%20%matrix/confusion_matrix_gpt2.png) |
+| ![Confusion Matrix - T5 Model](./confusion%20matrix/confusion_matrix_t5.png) | ![Confusion Matrix - GPT-2 Model](./confusion%20matrix/confusion_matrix_gpt2.png) |
 
 | BERT Model | ELECTRA Model |
 |---|---|
-| ![Confusion Matrix - BERT Model](./confusion%20%matrix/confusion_matrix_bert.png) | ![Confusion Matrix - ELECTRA Model](./confusion%20%matrix/confusion_matrix_electra.png) |
+| ![Confusion Matrix - BERT Model](./confusion%20matrix/confusion_matrix_bert.png) | ![Confusion Matrix - ELECTRA Model](./confusion%20matrix/confusion_matrix_electra.png) |
 
 | Roberta Model | TinyBERT Model |
 |---|---|
-| ![Confusion Matrix - Roberta Model](./confusion%20%matrix/roberta.png) | ![Confusion Matrix - TinyBERT Model](./confusion%20%matrix/confusion_matrix_tinybert.png) 
+| ![Confusion Matrix - Roberta Model](./confusion%20%matrix/roberta.png) | ![Confusion Matrix - TinyBERT Model](./confusion%20matrix/confusion_matrix_tinybert.png) 
+
 <p align="center">
 | DistilBert Model | 
 |---|
-| ![Confusion Matrix - DistilBert Model](./confusion%20%matrix/confusion_matrix_distilbert.png) 
+| ![Confusion Matrix - DistilBert Model](./confusion%20matrix/confusion_matrix_distilbert.png) 
 </p>
+
 ## Conclusion 
 Electra small model by google which is fine tuned on SST 2 and rotten tomatoes dataset outperformed the other models with the highest metrics and rank 1 and with a perfect 1.0 topsis score. 
 Its good impact can be infered due to a large training data of movie reviews. 
