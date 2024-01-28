@@ -76,13 +76,11 @@ Horizontal Bar Graph of Topsis Score along with rank
 |---|---|
 | ![Confusion Matrix - Roberta Model](./confusion%20matrix/confusion_matrix_roberta.png) | ![Confusion Matrix - TinyBERT Model](./confusion%20matrix/confusion_matrix_tinybert.png) 
 
-<p align="center">
- 
+<center>
 | DistilBert Model | 
 |---|
-| ![Confusion Matrix - DistilBert Model](./confusion%20matrix/confusion_matrix_distilbert.png) 
-
-</p>
+|<img src="./confusion%20matrix/confusion_matrix_distilbert.png" alt="Your Image Alt Text" width="200">|
+</center>
 
 ## Conclusion 
 Electra small model by google which is fine tuned on SST 2 and rotten tomatoes dataset outperformed the other models with the highest metrics and rank 1 and with a perfect 1.0 topsis score. 
